@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T14:02:23.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="5Hlr8yyceOZQ_yIO2bGQ" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-05T18:22:13.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="0eZpRRH6kwkrDkf7GT3g" version="15.0.6" type="github">
   <diagram id="kORL1xJo8aayXb87HU0_" name="第 1 页">
-    <mxGraphModel dx="3168" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1392,7 +1392,7 @@
         <mxCell id="gelXj60zep358fwiCunV-483" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" parent="1" vertex="1">
           <mxGeometry x="1910.8599999999997" y="1443" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gelXj60zep358fwiCunV-484" value="平台商家" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="gelXj60zep358fwiCunV-484" value="要吃饱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1915.8599999999997" y="1452.16" width="50" height="11.67" as="geometry" />
         </mxCell>
         <mxCell id="gelXj60zep358fwiCunV-485" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" parent="1" vertex="1">
@@ -1416,7 +1416,7 @@
         <mxCell id="gelXj60zep358fwiCunV-491" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" parent="1" vertex="1">
           <mxGeometry x="2060.8599999999997" y="1443" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gelXj60zep358fwiCunV-492" value="要吃饱" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="gelXj60zep358fwiCunV-492" value="平台商家" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2065.8599999999997" y="1452.16" width="50" height="11.67" as="geometry" />
         </mxCell>
         <mxCell id="gelXj60zep358fwiCunV-493" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" parent="1" vertex="1">
@@ -2738,6 +2738,24 @@
         </mxCell>
         <mxCell id="QBwlmmakAEmsmM3cXIMH-132" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 28px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;span class=&quot;s1&quot;&gt;餐品信息管理合约&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="351.16999999999996" y="1610" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-134" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="516.1600000000001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-135" value="&amp;lt;&lt;span style=&quot;font-size: 9px&quot;&gt;3rd system&lt;/span&gt;&lt;span&gt;&amp;gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="527.8266666666666" width="100" height="11.666666666666668" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-136" value="用户服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2450" y="545.3266666666666" width="100" height="11.666666666666668" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-137" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DB9156;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="623.83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-138" value="&amp;lt;&lt;span style=&quot;font-size: 9px&quot;&gt;3rd system&lt;/span&gt;&lt;span&gt;&amp;gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="635.4966666666667" width="100" height="11.666666666666668" as="geometry" />
+        </mxCell>
+        <mxCell id="QBwlmmakAEmsmM3cXIMH-139" value="实名审核服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2450" y="652.9966666666667" width="100" height="11.666666666666668" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
